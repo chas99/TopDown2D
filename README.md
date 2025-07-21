@@ -7,7 +7,7 @@ My team and I utilized Unreal Engine 5 to create a Top-down third-person action 
 
 - Git and Bitbucket were also used to keep track of tasks and source code control.
 
-Role: UI/UX designer/programmer
+My role: UI/UX designer/programmer
 - I created the main menu which included audio, graphics, etc.
 - A pause Menu, player UI Victory, screen, enemy health bar, objective indicator, etc.
 - Boss elements; Boss name & health bar, and telegraphs.
