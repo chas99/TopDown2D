@@ -30,32 +30,31 @@ Role: UI/UX designer/programmer
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Options Blueprint code: <br/>
+<img src="https://i.imgur.com/r2D2Jjk.png" height="80%" width="80%" alt="Options Widget"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Options Interface:  <br/>
+<img src="https://i.imgur.com/ZiHs8qr.png" height="80%" width="80%" alt="Options Widget"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Credits Interface: <br/>
+<img src="https://i.imgur.com/Zk4rjAt.png" height="80%" width="80%" alt="Credits"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Main Menu BP/Interface:  <br/>
+<img src="https://i.imgur.com/6iet0FO.png" height="80%" width="80%" alt="Main Menu"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Git.add:  <br/>
+<img src="https://i.imgur.com/PwXpJsQ.png" height="80%" width="80%" alt="Git"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Bitbucket:  <br/>
+<img src="https://i.imgur.com/5IirNS8.png" height="80%" width="80%" alt="Bitbucket"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
